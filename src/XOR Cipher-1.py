@@ -1,4 +1,4 @@
-#Kinesys XOR Cipher -1.py
+#Nephael XOR Cipher -1.py
 
 
 _encode = '암호내용' .decode('hex')
